@@ -2138,16 +2138,6 @@
 		)
 		(uuid "6ccb796d-c86c-4424-9360-f6b995baa1dd")
 	)
-	(wire
-		(pts
-			(xy 107.95 33.02) (xy 120.65 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71e2827d-022a-4fa2-aab9-79b6b778ffc3")
-	)
 	(polyline
 		(pts
 			(xy 176.53 165.1) (xy 284.48 165.1)
@@ -2158,16 +2148,6 @@
 		)
 		(uuid "75ea3cdc-0088-4a41-8287-d2557d26e1f2")
 	)
-	(wire
-		(pts
-			(xy 107.95 35.56) (xy 120.65 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c20567d-9265-455f-854d-52a5d3b51d54")
-	)
 	(polyline
 		(pts
 			(xy 67.31 12.7) (xy 176.53 12.7)
@@ -2177,6 +2157,16 @@
 			(type default)
 		)
 		(uuid "8a80bcec-654b-4481-9d5f-dd5478e6e36e")
+	)
+	(wire
+		(pts
+			(xy 107.95 35.56) (xy 120.65 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91a3a4a1-f5ce-4185-b92f-451c8fa1d3d6")
 	)
 	(polyline
 		(pts
@@ -2257,6 +2247,16 @@
 			(type default)
 		)
 		(uuid "f7db5d6c-b6d1-4b0a-ba0f-96eaf9b3fd5d")
+	)
+	(wire
+		(pts
+			(xy 107.95 33.02) (xy 120.65 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa890074-59d3-484a-a855-0f03114968fd")
 	)
 	(global_label "MOTOR6_CH2"
 		(shape input)
@@ -2783,6 +2783,455 @@
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 184.15 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0775b3b4-04f0-4b42-b60d-df8570ceb48b")
+		(property "Netclass" "Power_Out"
+			(at 184.8485 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 2.54 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 184.15 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "20e8ed6d-60c6-4a9e-bd4b-b442f0fc1492")
+		(property "Netclass" "Power_Out"
+			(at 184.8485 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 2.54 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 114.3 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2d86df7a-b762-4860-8fce-6cc3281dd6d0")
+		(property "Netclass" "Power_Out"
+			(at 114.9985 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d248cc5-b45c-482a-b5d0-ef17823dd83b")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 27.94 31.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3e254d2d-90d5-4063-ba71-d547d72c2750")
+		(property "Netclass" "Power_In"
+			(at 28.6385 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -257.81 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "45f3ba74-1e0e-4160-a1e1-6394781e9752")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "585bdd50-160c-40b9-8d48-4b76972f7ce9")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a0877aa-a99c-4583-bad3-ab814892ea9d")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74e2d048-ffe8-44a1-a2cb-bf4c842c0098")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7c505f1b-3662-4a4a-a3a5-b062564adad2")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 48.26 31.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "90e6f98d-1e62-4268-b512-6accec5ed20e")
+		(property "Netclass" "Power_In"
+			(at 48.9585 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -237.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cbf05c5d-7834-40e9-88c1-cb231eb60635")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 251.46 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "da438c48-af3f-41b4-b485-aa0cb527f303")
+		(property "Netclass" "Power_Out"
+			(at 252.1585 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 69.85 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 114.3 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f94f5681-aaa4-416f-b965-193ffbb3bc72")
+		(property "Netclass" "Power_Out"
+			(at 114.9985 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -67.31 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
 			)
 		)
 	)
