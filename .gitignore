@@ -8,3 +8,5 @@
 # Local settings and caches
 *.kicad_prl
 fp-info-cache
+*.lck
+*auto_saved_files*
