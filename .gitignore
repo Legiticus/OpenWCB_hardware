@@ -1,0 +1,10 @@
+# KiCad temporary and backup files
+*.bak
+*.sch-bak
+*.kicad_pcb-bak
+*-bak
+*-backups/
+
+# Local settings and caches
+*.kicad_prl
+fp-info-cache
