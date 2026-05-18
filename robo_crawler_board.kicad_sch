@@ -1941,7 +1941,7 @@
 		)
 	)
 	(rectangle
-		(start 12.7 12.7)
+		(start 12.7 63.5)
 		(end 67.31 165.1)
 		(stroke
 			(width 0)
@@ -1953,8 +1953,8 @@
 		(uuid 9da6fde2-c038-4423-9936-ab5c69aa082c)
 	)
 	(rectangle
-		(start 67.31 66.04)
-		(end 198.12 165.1)
+		(start 67.31 63.5)
+		(end 153.67 165.1)
 		(stroke
 			(width 0)
 			(type default)
@@ -1977,16 +1977,16 @@
 		(uuid c9e14d1f-bc9c-486d-89af-64aca7c6c1a8)
 	)
 	(junction
-		(at 59.69 52.07)
+		(at 22.86 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "349044ff-861a-4ee4-8e12-68a4ff11c841")
+		(uuid "5dade2b4-6da2-4b54-9614-83b25eab30ca")
 	)
 	(junction
-		(at 16.51 52.07)
+		(at 52.07 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7baa74c0-da1c-4b99-b3bc-a9569c9699d1")
+		(uuid "aa4079ae-8eee-46b0-8405-7d144a450dfb")
 	)
 	(polyline
 		(pts
@@ -2010,97 +2010,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 68.58) (xy 257.81 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e86f5f3-3656-4098-828b-a4d501ec4810")
-	)
-	(wire
-		(pts
-			(xy 245.11 71.12) (xy 257.81 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15a94d81-1e14-463e-849b-097723f64e6e")
-	)
-	(wire
-		(pts
-			(xy 177.8 35.56) (xy 190.5 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26dfc32f-7998-4e92-b3d9-7f3d9258774b")
-	)
-	(wire
-		(pts
-			(xy 177.8 33.02) (xy 190.5 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b25cf28-13d5-4ab4-8fcb-67a2b6c0408d")
-	)
-	(wire
-		(pts
-			(xy 245.11 107.95) (xy 257.81 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f151234-6005-466d-8f76-0b38335eb878")
-	)
-	(wire
-		(pts
-			(xy 16.51 52.07) (xy 26.67 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3691e3c1-e275-4c86-9c4b-6939751a204d")
-	)
-	(wire
-		(pts
-			(xy 245.11 33.02) (xy 257.81 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4716030e-b34c-42a3-a0ad-aaf0e6d78b1c")
-	)
-	(wire
-		(pts
-			(xy 16.51 31.75) (xy 16.51 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "547db9ad-7583-40a5-91d8-4025261f9eea")
-	)
-	(wire
-		(pts
-			(xy 245.11 110.49) (xy 257.81 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56e2b7ba-c170-432b-a535-5ca812066c15")
-	)
-	(wire
-		(pts
-			(xy 36.83 31.75) (xy 16.51 31.75)
+			(xy 36.83 80.01) (xy 22.86 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2117,26 +2027,6 @@
 			(type default)
 		)
 		(uuid "68fba526-7a52-4482-9157-8ef2f9a13e1d")
-	)
-	(wire
-		(pts
-			(xy 59.69 52.07) (xy 59.69 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b41f227-b3d4-49d1-8983-c30462f405ad")
-	)
-	(wire
-		(pts
-			(xy 245.11 144.78) (xy 257.81 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ccb796d-c86c-4424-9360-f6b995baa1dd")
 	)
 	(polyline
 		(pts
@@ -2160,7 +2050,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 35.56) (xy 120.65 35.56)
+			(xy 55.88 35.56) (xy 63.5 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2180,13 +2070,23 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 35.56) (xy 257.81 35.56)
+			(xy 121.92 33.02) (xy 129.54 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b48f71d4-f71d-4129-bf77-1bdf0cfe59be")
+		(uuid "b2b57da7-a700-4afa-9d49-45852471a40d")
+	)
+	(wire
+		(pts
+			(xy 22.86 80.01) (xy 16.51 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3f10569-f60e-441e-b511-f77b6e2dda89")
 	)
 	(polyline
 		(pts
@@ -2200,7 +2100,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 31.75) (xy 59.69 31.75)
+			(xy 39.37 80.01) (xy 52.07 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2210,7 +2110,17 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 31.75) (xy 59.69 52.07)
+			(xy 52.07 80.01) (xy 59.69 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be95e458-9df5-4fa5-b2e1-0c04d6da78fc")
+	)
+	(wire
+		(pts
+			(xy 59.69 80.01) (xy 59.69 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2220,7 +2130,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 52.07) (xy 16.51 113.03)
+			(xy 16.51 80.01) (xy 16.51 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2230,27 +2140,27 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 52.07) (xy 59.69 52.07)
+			(xy 121.92 35.56) (xy 129.54 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ed4eac23-48e0-494d-baf0-7cb1e4d4bf20")
+		(uuid "e7a93670-01ab-44bf-8b3f-50cfb015fbb7")
 	)
-	(wire
+	(polyline
 		(pts
-			(xy 245.11 142.24) (xy 257.81 142.24)
+			(xy 153.67 63.5) (xy 153.67 12.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f7db5d6c-b6d1-4b0a-ba0f-96eaf9b3fd5d")
+		(uuid "f5799678-040c-419f-abfd-3c8b6d82ed0d")
 	)
 	(wire
 		(pts
-			(xy 107.95 33.02) (xy 120.65 33.02)
+			(xy 55.88 33.02) (xy 63.5 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2258,31 +2168,9 @@
 		)
 		(uuid "fa890074-59d3-484a-a855-0f03114968fd")
 	)
-	(global_label "MOTOR6_CH2"
-		(shape input)
-		(at 224.79 144.78 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "13f38e79-3dbd-4a49-83d9-e3d954e5f10f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "MOTOR2_CH1"
 		(shape input)
-		(at 146.05 109.22 0)
+		(at 123.19 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2290,9 +2178,9 @@
 			)
 			(justify left)
 		)
-		(uuid "156595f0-c313-4a00-8caf-a41b067fad3d")
+		(uuid "106b0199-9303-453a-8e25-15ff1c6b782b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.3723 109.22 0)
+			(at 138.5123 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2302,53 +2190,9 @@
 			)
 		)
 	)
-	(global_label "MOTOR4_CH2"
+	(global_label "MOTOR1_CH2"
 		(shape input)
-		(at 120.65 119.38 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1fef3c1d-8920-41c8-8b32-725896d462ec")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3277 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR4_CH2"
-		(shape input)
-		(at 224.79 71.12 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2098d0e2-664f-44a0-9dd0-b001fe193e99")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR5_CH2"
-		(shape input)
-		(at 120.65 134.62 180)
+		(at 97.79 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2358,7 +2202,7 @@
 		)
 		(uuid "2437a634-942f-46da-9b39-63a62ec5f62f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3277 134.62 0)
+			(at 82.4677 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2368,9 +2212,9 @@
 			)
 		)
 	)
-	(global_label "MOTOR5_CH1"
+	(global_label "MOTOR1_CH1"
 		(shape input)
-		(at 120.65 132.08 180)
+		(at 97.79 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2380,161 +2224,7 @@
 		)
 		(uuid "2dd5437c-f43b-4b40-9b26-92352ccb92ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3277 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR4_CH1"
-		(shape input)
-		(at 224.79 68.58 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3d4ed602-abbf-4bdc-8fea-5ee04a6ebb52")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR3_CH2"
-		(shape input)
-		(at 120.65 111.76 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3eb36d5c-9892-45e2-98da-df3a5a564fa7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3277 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR6_CH1"
-		(shape input)
-		(at 224.79 142.24 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "49fb6f3e-ff85-40cb-ad68-134f657a351a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR5_CH1"
-		(shape input)
-		(at 224.79 107.95 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4b5c8d85-2ae5-49ac-a18c-fdcdca61f7cd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR3_CH2"
-		(shape input)
-		(at 224.79 35.56 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4b7d7a5c-50cf-4bc9-afd3-ee06f3c4c844")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR3_CH1"
-		(shape input)
-		(at 120.65 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "746c3a64-d71d-436b-8f3d-97e6aecc3029")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3277 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR2_CH1"
-		(shape input)
-		(at 157.48 33.02 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "79fbdf29-2699-4de7-a6db-c6864a3a930c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.1577 33.02 0)
+			(at 82.4677 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2546,7 +2236,29 @@
 	)
 	(global_label "MOTOR2_CH2"
 		(shape input)
-		(at 120.65 104.14 180)
+		(at 123.19 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3e569319-a5b0-4108-85b7-15118a657048")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.5123 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MOTOR2_CH1"
+		(shape input)
+		(at 101.6 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2554,9 +2266,9 @@
 			)
 			(justify right)
 		)
-		(uuid "94e62c9b-c1d1-45a6-b7d4-ada150a4f9ef")
+		(uuid "55686f72-31c8-493a-80ca-7bdc49089813")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3277 104.14 0)
+			(at 86.2777 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2568,7 +2280,7 @@
 	)
 	(global_label "MOTOR1_CH2"
 		(shape input)
-		(at 87.63 35.56 180)
+		(at 35.56 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2578,95 +2290,7 @@
 		)
 		(uuid "959ed6ee-9306-48da-9fbf-5ba7b8e2f81b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.3077 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR1_CH1"
-		(shape input)
-		(at 146.05 106.68 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a6f42d9f-6e66-4306-a06f-1a4fe630f4f6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.3723 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR6_CH2"
-		(shape input)
-		(at 146.05 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "aa65e982-90ed-4b3f-8018-c3d2f9ec544c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.3723 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR6_CH1"
-		(shape input)
-		(at 146.05 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ae56e7f1-ffa0-4ec8-a39e-2b4706df2fda")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.3723 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR5_CH2"
-		(shape input)
-		(at 224.79 110.49 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b34d2298-07b2-4469-9008-6c0fe20d0c41")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 110.49 0)
+			(at 20.2377 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2678,7 +2302,7 @@
 	)
 	(global_label "MOTOR2_CH2"
 		(shape input)
-		(at 157.48 35.56 180)
+		(at 101.6 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2686,9 +2310,9 @@
 			)
 			(justify right)
 		)
-		(uuid "d1f43013-c07a-4d67-ba97-6c3083d62cea")
+		(uuid "b7b1f216-d30d-4159-8cdf-7936f7f96ccd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.1577 35.56 0)
+			(at 86.2777 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2700,7 +2324,7 @@
 	)
 	(global_label "MOTOR1_CH1"
 		(shape input)
-		(at 87.63 33.02 180)
+		(at 35.56 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2710,73 +2334,7 @@
 		)
 		(uuid "ed338873-1055-4730-97f1-a612bb456aba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.3077 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR1_CH2"
-		(shape input)
-		(at 146.05 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ed426979-6e3c-4446-acc1-51fa5c84f884")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.3723 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR3_CH1"
-		(shape input)
-		(at 224.79 33.02 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f2dc06b7-fbdd-4dfa-abd1-12320dd73970")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4677 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOTOR4_CH1"
-		(shape input)
-		(at 120.65 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "febe1d77-f9e3-4ce5-9474-ebef2bbc80df")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3277 116.84 0)
+			(at 20.2377 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2789,7 +2347,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 184.15 33.02 0)
+		(at 125.73 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2797,9 +2355,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "0775b3b4-04f0-4b42-b60d-df8570ceb48b")
+		(uuid "053863b6-69d0-417a-881d-ca668558890e")
 		(property "Netclass" "Power_Out"
-			(at 184.8485 30.48 0)
+			(at 126.4285 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2809,7 +2367,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 2.54 5.08 0)
+			(at -55.88 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2821,39 +2379,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 184.15 35.56 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "20e8ed6d-60c6-4a9e-bd4b-b442f0fc1492")
-		(property "Netclass" "Power_Out"
-			(at 184.8485 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 2.54 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 114.3 35.56 180)
+		(at 59.69 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2863,7 +2389,7 @@
 		)
 		(uuid "2d86df7a-b762-4860-8fce-6cc3281dd6d0")
 		(property "Netclass" "Power_Out"
-			(at 114.9985 38.1 0)
+			(at 60.3885 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2873,7 +2399,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 0 0 0)
+			(at -54.61 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2886,17 +2412,17 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 251.46 33.02 0)
+		(at 125.73 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "3d248cc5-b45c-482a-b5d0-ef17823dd83b")
+		(uuid "34e0da1c-9cb8-48d5-a8f5-3161a1b9c279")
 		(property "Netclass" "Power_Out"
-			(at 252.1585 30.48 0)
+			(at 126.4285 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2906,19 +2432,20 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 69.85 5.08 0)
+			(at 11.43 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 					(italic yes)
 				)
+				(hide yes)
 			)
 		)
 	)
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 27.94 31.75 180)
+		(at 27.94 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2928,7 +2455,7 @@
 		)
 		(uuid "3e254d2d-90d5-4063-ba71-d547d72c2750")
 		(property "Netclass" "Power_In"
-			(at 28.6385 34.29 0)
+			(at 28.6385 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2938,7 +2465,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at -257.81 30.48 0)
+			(at -257.81 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2950,167 +2477,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 251.46 35.56 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "45f3ba74-1e0e-4160-a1e1-6394781e9752")
-		(property "Netclass" "Power_Out"
-			(at 252.1585 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 69.85 7.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 251.46 142.24 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "585bdd50-160c-40b9-8d48-4b76972f7ce9")
-		(property "Netclass" "Power_Out"
-			(at 252.1585 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 69.85 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 251.46 68.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5a0877aa-a99c-4583-bad3-ab814892ea9d")
-		(property "Netclass" "Power_Out"
-			(at 252.1585 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 69.85 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 251.46 107.95 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "74e2d048-ffe8-44a1-a2cb-bf4c842c0098")
-		(property "Netclass" "Power_Out"
-			(at 252.1585 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 69.85 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 251.46 71.12 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7c505f1b-3662-4a4a-a3a5-b062564adad2")
-		(property "Netclass" "Power_Out"
-			(at 252.1585 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 69.85 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 48.26 31.75 180)
+		(at 48.26 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3120,7 +2487,7 @@
 		)
 		(uuid "90e6f98d-1e62-4268-b512-6accec5ed20e")
 		(property "Netclass" "Power_In"
-			(at 48.9585 34.29 0)
+			(at 48.9585 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3130,7 +2497,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at -237.49 30.48 0)
+			(at -237.49 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3142,71 +2509,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 251.46 144.78 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cbf05c5d-7834-40e9-88c1-cb231eb60635")
-		(property "Netclass" "Power_Out"
-			(at 252.1585 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 69.85 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 251.46 110.49 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "da438c48-af3f-41b4-b485-aa0cb527f303")
-		(property "Netclass" "Power_Out"
-			(at 252.1585 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at 69.85 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 114.3 33.02 0)
+		(at 59.69 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3216,7 +2519,7 @@
 		)
 		(uuid "f94f5681-aaa4-416f-b965-193ffbb3bc72")
 		(property "Netclass" "Power_Out"
-			(at 114.9985 30.48 0)
+			(at 60.3885 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3226,7 +2529,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at -67.31 5.08 0)
+			(at -121.92 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3303,7 +2606,7 @@
 	)
 	(symbol
 		(lib_id "Driver_Motor:DRV8871DDA")
-		(at 97.79 35.56 0)
+		(at 45.72 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3312,7 +2615,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a6d1311-6d38-45a2-9bc9-664e6e4366de")
 		(property "Reference" "U4"
-			(at 99.9333 25.4 0)
+			(at 47.8633 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3321,7 +2624,7 @@
 			)
 		)
 		(property "Value" "DRV8871DDA"
-			(at 99.9333 27.94 0)
+			(at 47.8633 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3330,7 +2633,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
-			(at 104.14 36.83 0)
+			(at 52.07 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3339,7 +2642,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8871.pdf"
-			(at 104.14 36.83 0)
+			(at 52.07 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3348,7 +2651,7 @@
 			)
 		)
 		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
-			(at 97.79 35.56 0)
+			(at 45.72 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3393,76 +2696,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 262.89 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0a9ebe96-16e8-48d7-9712-54b3d159c2a2")
-		(property "Reference" "J6"
-			(at 262.89 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 262.89 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 262.89 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 262.89 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 262.89 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9814d839-ee2f-42d5-a3e6-f41cd2b67641")
-		)
-		(pin "2"
-			(uuid "ffb65d3b-7f34-4288-b278-ddce9755becd")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
-		(at 146.05 91.44 0)
+		(at 123.19 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3470,7 +2705,7 @@
 		(dnp no)
 		(uuid "104f1eb1-824f-4135-ae35-5c16bab64bc3")
 		(property "Reference" "#PWR01"
-			(at 146.05 95.25 0)
+			(at 123.19 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3479,7 +2714,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 148.59 90.424 0)
+			(at 125.73 90.424 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3487,7 +2722,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 91.44 0)
+			(at 123.19 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3496,7 +2731,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 91.44 0)
+			(at 123.19 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3505,7 +2740,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 146.05 91.44 0)
+			(at 123.19 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3520,144 +2755,6 @@
 			(project ""
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
 					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 245.11 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "17b489a0-20c5-4350-8bdf-5e219a95810c")
-		(property "Reference" "R4"
-			(at 247.65 78.7399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "15k"
-			(at 247.65 81.2799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 243.332 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 245.11 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "15295b14-0a7b-4761-a9f6-87f98ddcc720")
-		)
-		(pin "1"
-			(uuid "54bd5297-abc6-4376-852e-f1ac3e55bfc2")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 262.89 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19367950-7924-48e7-afe4-0a48f32de9ef")
-		(property "Reference" "J5"
-			(at 262.89 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 262.89 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 262.89 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 262.89 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 262.89 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "14376f37-288c-4fc8-a698-9b4eacc11669")
-		)
-		(pin "2"
-			(uuid "8ec2e1d7-948e-4cf9-bbd9-3f636eb1e809")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -3730,7 +2827,7 @@
 	)
 	(symbol
 		(lib_id "esp32-wroom-32u_c503589:ESP32-WROOM-32U_C503589")
-		(at 133.35 114.3 180)
+		(at 110.49 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3738,7 +2835,7 @@
 		(dnp no)
 		(uuid "1b221afe-5da2-4a8b-b359-7e0de3885aa6")
 		(property "Reference" "U1"
-			(at 133.604 85.598 0)
+			(at 110.744 85.598 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3746,7 +2843,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 133.35 86.36 0)
+			(at 110.49 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3755,7 +2852,7 @@
 			)
 		)
 		(property "Footprint" "deadzone_footprints:esp32-32u"
-			(at 133.35 114.3 0)
+			(at 110.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3764,7 +2861,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 114.3 0)
+			(at 110.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3773,7 +2870,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 133.35 114.3 0)
+			(at 110.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3782,7 +2879,7 @@
 			)
 		)
 		(property "Manufacturer Part" "ESP32-WROOM-32U"
-			(at 133.604 87.884 0)
+			(at 110.744 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3790,7 +2887,7 @@
 			)
 		)
 		(property "Supplier Part" "C503589"
-			(at 133.35 114.3 0)
+			(at 110.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3799,7 +2896,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 133.35 114.3 0)
+			(at 110.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3808,7 +2905,7 @@
 			)
 		)
 		(property "LCSC Part Name" "ESP32-WROOM-32U"
-			(at 133.35 114.3 0)
+			(at 110.49 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3940,85 +3037,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 262.89 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ce81737-cda5-4a42-96b0-7ca443224be2")
-		(property "Reference" "J7"
-			(at 262.89 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 262.89 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 262.89 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 262.89 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 262.89 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ae3efe8-2172-4e8e-99c5-27bb5e2e25cf")
-		)
-		(pin "2"
-			(uuid "4562ae80-3e16-444a-aa36-927330dba5a5")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
-		(at 245.11 153.67 0)
+		(at 121.92 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "288ad139-e740-4f37-83ab-44a77fd5aafd")
-		(property "Reference" "R6"
-			(at 247.65 152.3999 0)
+		(uuid "24adf486-e0eb-40dc-9492-8ae6db0cfba3")
+		(property "Reference" "R2"
+			(at 124.46 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4027,7 +3056,7 @@
 			)
 		)
 		(property "Value" "15k"
-			(at 247.65 154.9399 0)
+			(at 124.46 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4036,7 +3065,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 243.332 153.67 90)
+			(at 120.142 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4045,7 +3074,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 153.67 0)
+			(at 121.92 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4054,7 +3083,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 245.11 153.67 0)
+			(at 121.92 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4063,32 +3092,48 @@
 			)
 		)
 		(pin "2"
-			(uuid "908c677c-3a85-46a1-ae1a-47a7653d8421")
+			(uuid "896d6f9d-f919-41b7-bf8e-9359a70fda53")
 		)
 		(pin "1"
-			(uuid "78491157-cb53-4e5d-b0cc-1c702c771602")
+			(uuid "b3f3cd80-4b1e-4a7e-b027-3e9c200cfbac")
 		)
 		(instances
 			(project "robo_crawler_board"
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "R6")
+					(reference "R2")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 234.95 120.65 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 134.62 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "29dd9618-52a2-4aef-8386-2eec286ce228")
-		(property "Reference" "#PWR020"
-			(at 234.95 127 0)
+		(uuid "28e154cb-b315-48b5-a0eb-7ca335d6c3c1")
+		(property "Reference" "J3"
+			(at 134.62 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 134.62 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+			(at 134.62 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4096,16 +3141,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 234.95 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 120.65 0)
+		(property "Datasheet" "~"
+			(at 134.62 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4113,17 +3150,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 234.95 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 234.95 120.65 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 134.62 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4132,12 +3160,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "8ff77956-ff1f-4855-8a25-a6e023783d01")
+			(uuid "d08c3a97-0c9b-4498-9f1b-bc63f0e8df3c")
+		)
+		(pin "2"
+			(uuid "b374c263-7248-4d06-acc7-f18ed6aa5228")
 		)
 		(instances
 			(project "robo_crawler_board"
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR020")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -4277,167 +3308,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Driver_Motor:DRV8871DDA")
-		(at 234.95 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "446416ed-f971-4f78-917f-04bfa6b6838c")
-		(property "Reference" "U9"
-			(at 237.0933 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DRV8871DDA"
-			(at 237.0933 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
-			(at 241.3 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8871.pdf"
-			(at 241.3 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
-			(at 234.95 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "7fedad09-56ab-46b6-9ab0-82459f90b2cb")
-		)
-		(pin "4"
-			(uuid "c6193658-642e-4b20-8867-f2a1de61242a")
-		)
-		(pin "8"
-			(uuid "b73a98b0-971d-45e1-8439-cab1ac9fa324")
-		)
-		(pin "1"
-			(uuid "573ba56e-0d8a-4626-b2aa-44ef0e262306")
-		)
-		(pin "9"
-			(uuid "c1f4f5c5-5cfd-4913-8971-34815a443b10")
-		)
-		(pin "7"
-			(uuid "fe1ba886-52cd-4ab9-812b-19ae63050f0a")
-		)
-		(pin "2"
-			(uuid "9475d8d3-94aa-4b22-8e6e-d0ff767a9dd5")
-		)
-		(pin "5"
-			(uuid "99a2f450-16c7-4093-a9ff-1d234c07821e")
-		)
-		(pin "6"
-			(uuid "c9173bab-69cd-466a-bde3-f3062947d8ae")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 262.89 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4618e5da-4431-439f-a762-d3421ca1ce6b")
-		(property "Reference" "J4"
-			(at 262.89 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 262.89 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 262.89 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 262.89 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 262.89 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "10d3f2e2-eaaf-46fa-a370-2bee68b164ef")
-		)
-		(pin "2"
-			(uuid "038e22ac-e81c-4e50-94b9-3d5d1abe0522")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
-		(at 107.95 44.45 0)
+		(at 55.88 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4446,7 +3318,7 @@
 		(fields_autoplaced yes)
 		(uuid "46726317-bc25-48a2-a8c9-c57d664669c9")
 		(property "Reference" "R1"
-			(at 110.49 43.1799 0)
+			(at 58.42 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,7 +3327,7 @@
 			)
 		)
 		(property "Value" "15k"
-			(at 110.49 45.7199 0)
+			(at 58.42 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4464,7 +3336,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 106.172 44.45 90)
+			(at 54.102 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4473,7 +3345,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 107.95 44.45 0)
+			(at 55.88 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4482,7 +3354,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 107.95 44.45 0)
+			(at 55.88 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4507,7 +3379,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 26.67 92.71 0)
+		(at 22.86 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4516,7 +3388,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a425fc3-5790-4f43-9d6f-fbe961dc06d0")
 		(property "Reference" "#PWR03"
-			(at 26.67 99.06 0)
+			(at 22.86 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4525,7 +3397,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 26.67 97.79 0)
+			(at 22.86 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4533,7 +3405,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 92.71 0)
+			(at 22.86 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4542,7 +3414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 92.71 0)
+			(at 22.86 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4551,7 +3423,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 92.71 0)
+			(at 22.86 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4639,144 +3511,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 234.95 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cea6963-fdb1-43f6-815f-fdb1bb4e5096")
-		(property "Reference" "#PWR013"
-			(at 234.95 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 234.95 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 234.95 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "de3e867a-f1bb-4fcb-9b46-9dc39d0f4b59")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 245.11 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4e6c29f5-421f-4497-84f0-ea9556358d02")
-		(property "Reference" "R5"
-			(at 247.65 118.1099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "15k"
-			(at 247.65 120.6499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 243.332 119.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 245.11 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9d9cf8d7-4729-44b1-9284-02bebdf1b3cb")
-		)
-		(pin "1"
-			(uuid "a475faba-59ca-41ac-bf6b-838d0724f463")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 36.83 26.67 90)
+		(at 36.83 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4785,7 +3521,7 @@
 		(fields_autoplaced yes)
 		(uuid "545d5fa1-a006-4f39-980b-d80e99a263e9")
 		(property "Reference" "J1"
-			(at 41.91 25.3999 90)
+			(at 41.91 73.6599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4794,7 +3530,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 41.91 27.9399 90)
+			(at 41.91 76.1999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4803,7 +3539,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 36.83 26.67 0)
+			(at 36.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4812,7 +3548,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 26.67 0)
+			(at 36.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4821,7 +3557,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 36.83 26.67 0)
+			(at 36.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4846,428 +3582,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 245.11 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59c896fb-a017-40c0-acea-1c93ad4b9936")
-		(property "Reference" "#PWR024"
-			(at 245.11 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 245.11 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 245.11 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 245.11 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f0c94be-db03-4298-9682-efe219e70888")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 167.64 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5b2e1cf5-e138-41de-a657-d1ee7232d8a8")
-		(property "Reference" "#PWR010"
-			(at 167.64 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 167.64 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.64 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.64 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 167.64 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e563e030-5d8e-4960-bcb2-57df251246e7")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 245.11 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c2fcef1-4c09-4409-bdba-508248a85fdd")
-		(property "Reference" "#PWR014"
-			(at 245.11 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 245.11 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 245.11 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 245.11 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8cfc909a-4218-43c0-8720-a3f2d99ef39f")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 245.11 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "668b25de-b8ff-4c61-aa2a-831b2c68b0be")
-		(property "Reference" "#PWR021"
-			(at 245.11 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 245.11 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 245.11 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 245.11 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "07c286db-24f6-4387-962c-ca5ae636f07e")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 234.95 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "66da6a40-6258-4cd4-bf9f-d2d412de5e56")
-		(property "Reference" "#PWR022"
-			(at 234.95 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 234.95 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 234.95 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "25578d32-320f-45bf-9192-9b71043773d4")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Driver_Motor:DRV8871DDA")
-		(at 167.64 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "68b0bd2b-6d72-4a0b-b928-49568b1f70c4")
-		(property "Reference" "U5"
-			(at 169.7833 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DRV8871DDA"
-			(at 169.7833 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
-			(at 173.99 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8871.pdf"
-			(at 173.99 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
-			(at 167.64 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "826201e6-d7cc-4779-bc60-b42e2943ca56")
-		)
-		(pin "4"
-			(uuid "dfb0c216-afe4-4866-bd7c-4215c1a094d5")
-		)
-		(pin "8"
-			(uuid "5d30f5ce-7158-413a-8693-352be7b71053")
-		)
-		(pin "1"
-			(uuid "1725ac52-8a81-4c2a-bf03-aed77ba0a863")
-		)
-		(pin "9"
-			(uuid "401786d9-2c47-4c80-b87e-dffbc37b4167")
-		)
-		(pin "7"
-			(uuid "9bd8c73c-3dcf-416d-9f54-bbe365d9f417")
-		)
-		(pin "2"
-			(uuid "7883eb80-d030-408f-be34-b496bf7a63a6")
-		)
-		(pin "5"
-			(uuid "0357c3f2-a1ff-489e-9bcd-6e1bf32052b1")
-		)
-		(pin "6"
-			(uuid "4dd3768e-c8f5-4c1a-ad51-683bc11d8508")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 120.65 137.16 0)
+		(at 97.79 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5275,7 +3590,7 @@
 		(dnp no)
 		(uuid "6cb04362-5bd0-423f-ad72-2dbf46976407")
 		(property "Reference" "#PWR02"
-			(at 120.65 143.51 0)
+			(at 97.79 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5284,7 +3599,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 141.224 0)
+			(at 97.79 141.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5292,7 +3607,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 137.16 0)
+			(at 97.79 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5301,7 +3616,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 137.16 0)
+			(at 97.79 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5310,7 +3625,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 120.65 137.16 0)
+			(at 97.79 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5325,72 +3640,6 @@
 			(project ""
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 167.64 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d69ba70-f6f4-456e-ad0d-ba6c38da285e")
-		(property "Reference" "#PWR09"
-			(at 167.64 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 167.64 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 167.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c4f50d5e-7686-4bb6-9e85-cfc77fdb4a8c")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -5464,74 +3713,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 234.95 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7b77e160-b77f-4218-9d22-46466bcc2a58")
-		(property "Reference" "#PWR023"
-			(at 234.95 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 234.95 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 234.95 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a83266f5-4008-4cc2-8c3b-b23a37746360")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
-		(at 49.53 92.71 0)
+		(at 52.07 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5539,7 +3722,7 @@
 		(dnp no)
 		(uuid "8c22c6f4-956a-4345-a918-779e98328741")
 		(property "Reference" "#PWR05"
-			(at 49.53 96.52 0)
+			(at 52.07 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5547,8 +3730,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
-			(at 53.086 91.694 0)
+		(property "Value" "+18V"
+			(at 55.626 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5556,7 +3739,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 92.71 0)
+			(at 52.07 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5565,7 +3748,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 92.71 0)
+			(at 52.07 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5574,7 +3757,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 49.53 92.71 0)
+			(at 52.07 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5596,7 +3779,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 125.73 33.02 0)
+		(at 68.58 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5605,7 +3788,7 @@
 		(fields_autoplaced yes)
 		(uuid "8cc6f7f9-d2e8-4ee4-aaf8-b39ecd088a3d")
 		(property "Reference" "J2"
-			(at 125.73 41.91 0)
+			(at 68.58 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5613,7 +3796,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 125.73 39.37 0)
+			(at 68.58 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5621,7 +3804,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 125.73 33.02 0)
+			(at 68.58 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5630,7 +3813,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 33.02 0)
+			(at 68.58 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5639,7 +3822,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 125.73 33.02 0)
+			(at 68.58 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5663,87 +3846,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 177.8 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94306eb1-8b47-47ce-83df-8ab54d435f66")
-		(property "Reference" "R2"
-			(at 180.34 43.1799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "15k"
-			(at 180.34 45.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 176.022 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 177.8 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "31e3a8cf-d31c-483f-bdd5-aa74dd761efa")
-		)
-		(pin "1"
-			(uuid "562aba0a-f563-485e-aa52-3a32ecdb543f")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
-		(at 234.95 27.94 0)
+		(at 111.76 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9857c2c8-94d5-4ab8-adeb-aa7cbce7eac8")
-		(property "Reference" "#PWR012"
-			(at 234.95 31.75 0)
+		(uuid "94fbec66-8d95-4e41-b6d5-6bcacb6b389f")
+		(property "Reference" "#PWR09"
+			(at 111.76 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5752,7 +3865,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 234.95 22.86 0)
+			(at 111.76 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5760,7 +3873,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.95 27.94 0)
+			(at 111.76 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5769,7 +3882,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 27.94 0)
+			(at 111.76 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5778,7 +3891,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 234.95 27.94 0)
+			(at 111.76 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5787,194 +3900,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "1826b228-5d7b-44be-8ac4-e7e44150a21b")
+			(uuid "5afadc92-6fe7-4d04-b0a7-f047458a198f")
 		)
 		(instances
 			(project "robo_crawler_board"
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Driver_Motor:DRV8871DDA")
-		(at 234.95 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "994f45b1-83e3-4530-b886-d8c8782ca925")
-		(property "Reference" "U8"
-			(at 237.0933 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DRV8871DDA"
-			(at 237.0933 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
-			(at 241.3 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8871.pdf"
-			(at 241.3 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
-			(at 234.95 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "8f00c5fa-0ac7-479c-9e0e-ef866d92c268")
-		)
-		(pin "4"
-			(uuid "4f1393f5-57b9-479c-ac48-e617f9c9d8f1")
-		)
-		(pin "8"
-			(uuid "ebc53fc3-0d77-41f6-843d-bfb4ac510d5d")
-		)
-		(pin "1"
-			(uuid "b6255d53-5f0a-440d-bcd5-92f3bf471967")
-		)
-		(pin "9"
-			(uuid "e6963166-4be5-4347-bf1b-0d1b282c84b6")
-		)
-		(pin "7"
-			(uuid "555ccc93-fd1d-44ae-9691-17532f13a28b")
-		)
-		(pin "2"
-			(uuid "6e25374d-9552-4408-a695-88713fef5941")
-		)
-		(pin "5"
-			(uuid "0e10c5e1-bb14-4d33-88c1-11cba03587ce")
-		)
-		(pin "6"
-			(uuid "11d8b79d-fd44-463a-bd84-75dc9c2387e8")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "U8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Driver_Motor:DRV8871DDA")
-		(at 234.95 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6fb3b94-24c6-4cfe-932d-08bf5ec644bb")
-		(property "Reference" "U6"
-			(at 237.0933 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DRV8871DDA"
-			(at 237.0933 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
-			(at 241.3 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8871.pdf"
-			(at 241.3 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
-			(at 234.95 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "bc097ccb-0df7-4207-a364-9f619a5ce2cb")
-		)
-		(pin "4"
-			(uuid "3a1a8f3a-3984-4558-bedb-6099f6d90283")
-		)
-		(pin "8"
-			(uuid "7f332f83-8d1d-4c40-b6d0-a59eb633f5fa")
-		)
-		(pin "1"
-			(uuid "58ad34a7-0cec-44cd-80b3-81c0c6f1615c")
-		)
-		(pin "9"
-			(uuid "591cf845-e584-464c-8f8e-95ab0be24c2d")
-		)
-		(pin "7"
-			(uuid "4acb7a22-e520-408d-8dca-b44cbd1dff2e")
-		)
-		(pin "2"
-			(uuid "ccdcd789-e5a5-4737-acb0-135dd05db91f")
-		)
-		(pin "5"
-			(uuid "3122d01d-b630-4668-9f40-62848245a0cc")
-		)
-		(pin "6"
-			(uuid "91e1310e-56de-4b18-9411-d9c68af28c5e")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "U6")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -5982,16 +3913,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 107.95 48.26 0)
+		(at 121.92 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a7210e0a-1d1d-4579-b7a9-8ef80a286f24")
-		(property "Reference" "#PWR08"
-			(at 107.95 54.61 0)
+		(uuid "9e2bcca6-441a-49b7-be2a-a0d996d40113")
+		(property "Reference" "#PWR011"
+			(at 121.92 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6000,7 +3931,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 107.95 53.34 0)
+			(at 121.92 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6008,7 +3939,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 48.26 0)
+			(at 121.92 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6017,7 +3948,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 48.26 0)
+			(at 121.92 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6026,7 +3957,73 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 107.95 48.26 0)
+			(at 121.92 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7de9f6b2-b8c9-4173-9871-f18fb77a2fe8")
+		)
+		(instances
+			(project "robo_crawler_board"
+				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 55.88 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a7210e0a-1d1d-4579-b7a9-8ef80a286f24")
+		(property "Reference" "#PWR08"
+			(at 55.88 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 55.88 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 55.88 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6047,17 +4044,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 177.8 48.26 0)
+		(lib_id "Driver_Motor:DRV8871DDA")
+		(at 111.76 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "aa5dcee7-4bf3-4722-b710-c6cba77ea51c")
-		(property "Reference" "#PWR011"
-			(at 177.8 54.61 0)
+		(uuid "a91e64a4-91b2-4337-9ec5-727a90f63d3f")
+		(property "Reference" "U5"
+			(at 113.9033 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DRV8871DDA"
+			(at 113.9033 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
+			(at 118.11 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6065,16 +4080,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 177.8 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 177.8 48.26 0)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8871.pdf"
+			(at 118.11 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6082,8 +4089,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 177.8 48.26 0)
+		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
+			(at 111.76 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6091,22 +4098,37 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "3"
+			(uuid "c4e0ea33-f0c8-4d88-9b6c-2d45300b7a05")
+		)
+		(pin "4"
+			(uuid "17bcdbd0-1840-4c49-9f26-bfee473ec70e")
+		)
+		(pin "8"
+			(uuid "e67be982-dd08-418e-aaa7-4e18120113ce")
 		)
 		(pin "1"
-			(uuid "326cb0b1-84f8-4b33-86e2-b59883884330")
+			(uuid "faa9d461-d57c-45ee-98fd-2febedcbd40b")
+		)
+		(pin "9"
+			(uuid "fdcfff7c-a64e-4481-a1b6-fd918b4ed20e")
+		)
+		(pin "7"
+			(uuid "868d18f8-3307-44e0-8344-1657bb5092a4")
+		)
+		(pin "2"
+			(uuid "4edcf2a2-b43e-45ad-a7dc-41408b392253")
+		)
+		(pin "5"
+			(uuid "2da3714b-f82d-403b-8883-875cc15325d7")
+		)
+		(pin "6"
+			(uuid "03d1e2d0-f623-4fc6-aaa9-8c5f23a64b2d")
 		)
 		(instances
 			(project "robo_crawler_board"
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR011")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -6180,16 +4202,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 245.11 83.82 0)
+		(at 111.76 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b02237cd-c9a6-4f84-8a82-ba6a7905f413")
-		(property "Reference" "#PWR018"
-			(at 245.11 90.17 0)
+		(uuid "b0c66d43-f4be-4e60-8988-5151631b636f")
+		(property "Reference" "#PWR010"
+			(at 111.76 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6198,7 +4220,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 245.11 88.9 0)
+			(at 111.76 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6206,7 +4228,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 245.11 83.82 0)
+			(at 111.76 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6215,7 +4237,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 245.11 83.82 0)
+			(at 111.76 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6224,7 +4246,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 245.11 83.82 0)
+			(at 111.76 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6233,282 +4255,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "da975ebe-aa52-4462-819c-991cb9482e22")
+			(uuid "08da593c-04d9-42d7-947e-041bc247f119")
 		)
 		(instances
 			(project "robo_crawler_board"
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 234.95 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bab221b6-1ed6-4517-990d-75fc468b7ceb")
-		(property "Reference" "#PWR015"
-			(at 234.95 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 234.95 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 234.95 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "11e3d4f9-a136-4fce-bab7-f867ec7ce637")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 245.11 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c0235669-a985-42a5-8dc9-6b22f2185fac")
-		(property "Reference" "R3"
-			(at 247.65 43.1799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "15k"
-			(at 247.65 45.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 243.332 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 245.11 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "030b6ab6-f445-4593-a49a-880e0fd7edd2")
-		)
-		(pin "1"
-			(uuid "e40fe5ca-4f09-4cb4-8576-f06b0dcbc510")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 234.95 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c61a5600-970f-4682-8e62-1540e8f0ccff")
-		(property "Reference" "#PWR019"
-			(at 234.95 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 234.95 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 234.95 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3e673c50-a5f2-47f2-af88-724f73f23f23")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 195.58 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c90f8e97-e7d5-4ccf-b6c0-463fbea9d962")
-		(property "Reference" "J3"
-			(at 195.58 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 195.58 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
-			(at 195.58 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 195.58 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 195.58 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d73cdde6-d984-494c-b0c9-5d000aa58d68")
-		)
-		(pin "2"
-			(uuid "77beb9c0-2b78-458c-9a8a-fd13b8565d51")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "J3")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -6575,72 +4327,6 @@
 			(project "robo_crawler_board"
 				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 234.95 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dad5d458-4fb1-47a7-877e-631962d88232")
-		(property "Reference" "#PWR017"
-			(at 234.95 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 234.95 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 234.95 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ae271bc2-f8a5-402e-9509-839237739f66")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -6786,181 +4472,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Driver_Motor:DRV8871DDA")
-		(at 234.95 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4910006-a890-461f-a046-e25ed50766de")
-		(property "Reference" "U7"
-			(at 237.0933 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DRV8871DDA"
-			(at 237.0933 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias"
-			(at 241.3 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8871.pdf"
-			(at 241.3 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
-			(at 234.95 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "da2773f3-6fe2-4234-af6f-85e6c0d87b01")
-		)
-		(pin "4"
-			(uuid "a11b8419-de3a-4146-a5e2-77ac7c798f4a")
-		)
-		(pin "8"
-			(uuid "bf753000-0c61-4eb9-ab82-58c8a3a55887")
-		)
-		(pin "1"
-			(uuid "d323befa-7ded-4fae-84a3-31c0187d03cd")
-		)
-		(pin "9"
-			(uuid "f5315e70-4b98-4dd6-b93b-c37194b58d92")
-		)
-		(pin "7"
-			(uuid "be5609b2-d929-41a6-94a4-c9c09382a89f")
-		)
-		(pin "2"
-			(uuid "ce2f8443-7f0a-4b5f-9725-bf8594ce74ec")
-		)
-		(pin "5"
-			(uuid "fed63ed3-0a59-4bb3-a87f-cbc3962dc6cf")
-		)
-		(pin "6"
-			(uuid "7b15a8a2-0450-4c14-a38b-57a3cdb57be9")
-		)
-		(instances
-			(project "robo_crawler_board"
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "lm2596 dc-dc buck converter:LM2596 DC-DC Buck Converter")
-		(at 38.1 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f108a8b8-2834-457d-afa3-b8a028cd2f22")
-		(property "Reference" "U2"
-			(at 38.1 45.466 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 37.592 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "deadzone_footprints:LM2596 DC-DC Buck Converter"
-			(at 39.37 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.amazon.com/dp/B07VVXF7YX?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1"
-			(at 38.1 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "LM2596 BC dev board"
-			(at 38.1 95.504 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Name" "LM2596 BC dev board"
-			(at 38.608 48.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "eda67df4-7249-42ea-8428-58db94505b1a")
-		)
-		(pin "1"
-			(uuid "89e49fa4-8fb8-421e-a2a4-e819ba0a21cd")
-		)
-		(pin "4"
-			(uuid "698e2f88-ec98-46be-a2b1-339c72a006a9")
-		)
-		(pin "2"
-			(uuid "57252cf4-db48-4a1c-a6d2-5059316d8c5f")
-		)
-		(instances
-			(project ""
-				(path "/8c23940b-1549-4d4e-a5eb-1280177a037e"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
-		(at 97.79 27.94 0)
+		(at 45.72 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6969,7 +4482,7 @@
 		(fields_autoplaced yes)
 		(uuid "f441a49e-68ad-40bf-aaf9-fabab626d04b")
 		(property "Reference" "#PWR016"
-			(at 97.79 31.75 0)
+			(at 45.72 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6978,7 +4491,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 97.79 22.86 0)
+			(at 45.72 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6986,7 +4499,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 27.94 0)
+			(at 45.72 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6995,7 +4508,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 27.94 0)
+			(at 45.72 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7004,7 +4517,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 97.79 27.94 0)
+			(at 45.72 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7026,7 +4539,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 45.72 0)
+		(at 45.72 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7035,7 +4548,7 @@
 		(fields_autoplaced yes)
 		(uuid "f72ca912-70e0-4df0-bf16-60d855ba5080")
 		(property "Reference" "#PWR07"
-			(at 97.79 52.07 0)
+			(at 45.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7044,7 +4557,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 50.8 0)
+			(at 45.72 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7052,7 +4565,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 45.72 0)
+			(at 45.72 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7061,7 +4574,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 45.72 0)
+			(at 45.72 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7070,7 +4583,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 45.72 0)
+			(at 45.72 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
