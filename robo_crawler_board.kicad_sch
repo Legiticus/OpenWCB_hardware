@@ -4664,7 +4664,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 20.32 34.29 0)
 			(effects
 				(font
@@ -4965,9 +4965,9 @@
 		(at 110.49 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1b221afe-5da2-4a8b-b359-7e0de3885aa6")
 		(property "Reference" "U1"
 			(at 110.744 85.598 0)
@@ -5304,7 +5304,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C51210"
 			(at 210.82 74.93 0)
 			(effects
 				(font
@@ -5382,7 +5382,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C51210"
 			(at 210.82 134.62 0)
 			(effects
 				(font
@@ -5411,9 +5411,9 @@
 		(at 140.97 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "28e154cb-b315-48b5-a0eb-7ca335d6c3c1")
 		(property "Reference" "J3"
@@ -5529,7 +5529,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 229.87 44.45 0)
 			(effects
 				(font
@@ -6151,7 +6151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "polarized capacitor"
 			(at 215.9 49.53 0)
 			(effects
 				(font
@@ -6189,9 +6189,9 @@
 		(at 38.1 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "545d5fa1-a006-4f39-980b-d80e99a263e9")
 		(property "Reference" "J1"
@@ -6308,7 +6308,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 170.18 119.38 0)
 			(effects
 				(font
@@ -6349,7 +6349,7 @@
 				)
 			)
 		)
-		(property "Value" "512"
+		(property "Value" "510"
 			(at 180.086 60.96 0)
 			(effects
 				(font
@@ -6384,7 +6384,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C2076395"
+		(property "LCSC Part Number" "C2907333"
 			(at 175.26 59.69 0)
 			(effects
 				(font
@@ -6660,7 +6660,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 90.17 34.29 0)
 			(effects
 				(font
@@ -6738,7 +6738,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 220.98 109.22 0)
 			(effects
 				(font
@@ -7058,9 +7058,9 @@
 		(at 72.39 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8cc6f7f9-d2e8-4ee4-aaf8-b39ecd088a3d")
 		(property "Reference" "J2"
@@ -7241,7 +7241,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C83170"
 			(at 15.24 34.29 0)
 			(effects
 				(font
@@ -7386,7 +7386,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 229.87 114.3 0)
 			(effects
 				(font
@@ -7725,7 +7725,7 @@
 				)
 			)
 		)
-		(property "Value" "512"
+		(property "Value" "510"
 			(at 180.086 120.65 0)
 			(effects
 				(font
@@ -7760,7 +7760,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C2076395"
+		(property "LCSC Part Number" "C2907333"
 			(at 175.26 119.38 0)
 			(effects
 				(font
@@ -8036,7 +8036,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 220.98 49.53 0)
 			(effects
 				(font
@@ -8065,9 +8065,9 @@
 		(at 252.73 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c4baf2a1-0c4d-4f91-935f-663e0f404226")
 		(property "Reference" "J4"
@@ -8183,7 +8183,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 229.87 104.14 0)
 			(effects
 				(font
@@ -8788,9 +8788,9 @@
 		(at 38.1 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e05f5004-74dd-48b8-ad6d-164c17d66ea4")
 		(property "Reference" "U3"
 			(at 37.846 106.68 0)
@@ -8911,7 +8911,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 229.87 54.61 0)
 			(effects
 				(font
@@ -8989,7 +8989,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C83170"
 			(at 85.09 34.29 0)
 			(effects
 				(font
@@ -9067,7 +9067,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 170.18 59.69 0)
 			(effects
 				(font
@@ -9278,7 +9278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "polarized capacitor"
 			(at 215.9 109.22 0)
 			(effects
 				(font

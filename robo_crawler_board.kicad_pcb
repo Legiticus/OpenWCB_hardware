@@ -291,7 +291,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C83170"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -510,7 +510,7 @@
 		(path "/c4baf2a1-0c4d-4f91-935f-663e0f404226")
 		(sheetname "/")
 		(sheetfile "robo_crawler_board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start 7.62 3.81)
 			(end 7.62 -3.81)
@@ -749,7 +749,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -968,7 +968,7 @@
 		(path "/545d5fa1-a006-4f39-980b-d80e99a263e9")
 		(sheetname "/")
 		(sheetfile "robo_crawler_board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start 7.62 -3.81)
 			(end -2.54 -3.81)
@@ -1582,7 +1582,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "polarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3894,7 +3894,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4672,7 +4672,7 @@
 				)
 			)
 		)
-		(property "Value" "512"
+		(property "Value" "510"
 			(at -3.9125 -0.25 270)
 			(layer "F.Fab")
 			(uuid "122df428-e9a2-4b1e-bd8f-f31cdbcbe518")
@@ -4707,7 +4707,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" "C2076395"
+		(property "LCSC Part Number" "C2907333"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4919,7 +4919,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5138,7 +5138,7 @@
 		(path "/28e154cb-b315-48b5-a0eb-7ca335d6c3c1")
 		(sheetname "/")
 		(sheetfile "robo_crawler_board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start -2.54 3.81)
 			(end 7.62 3.81)
@@ -6190,7 +6190,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6390,7 +6390,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "polarized capacitor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8497,7 +8497,7 @@
 		(path "/8cc6f7f9-d2e8-4ee4-aaf8-b39ecd088a3d")
 		(sheetname "/")
 		(sheetfile "robo_crawler_board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start -2.54 3.81)
 			(end 7.62 3.81)
@@ -8736,7 +8736,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C51210"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8948,7 +8948,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C51210"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9240,6 +9240,7 @@
 		(path "/1b221afe-5da2-4a8b-b359-7e0de3885aa6")
 		(sheetname "/")
 		(sheetfile "robo_crawler_board.kicad_sch")
+		(attr exclude_from_bom dnp)
 		(fp_rect
 			(start -24.1 -14)
 			(end 24.1 14)
@@ -9984,7 +9985,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10620,7 +10621,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10832,7 +10833,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11044,7 +11045,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C513710"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11221,7 +11222,7 @@
 				)
 			)
 		)
-		(property "Value" "512"
+		(property "Value" "510"
 			(at -3.7975 -1.27 90)
 			(layer "F.Fab")
 			(uuid "79684a39-c438-4753-998e-099756981c69")
@@ -11256,7 +11257,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" "C2076395"
+		(property "LCSC Part Number" "C2907333"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11468,7 +11469,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C83170"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11680,7 +11681,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11896,6 +11897,7 @@
 		(path "/e05f5004-74dd-48b8-ad6d-164c17d66ea4")
 		(sheetname "/")
 		(sheetfile "robo_crawler_board.kicad_sch")
+		(attr exclude_from_bom dnp)
 		(fp_rect
 			(start -21.5 -10.5)
 			(end 21.5 10.5)
@@ -12009,7 +12011,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C49678"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
